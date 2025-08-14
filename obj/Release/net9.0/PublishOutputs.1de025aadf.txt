@@ -1,0 +1,7 @@
+/Users/victorbrandao/DevOpsApiCSharp/out/DevOpsApi
+/Users/victorbrandao/DevOpsApiCSharp/out/appsettings.Development.json
+/Users/victorbrandao/DevOpsApiCSharp/out/appsettings.json
+/Users/victorbrandao/DevOpsApiCSharp/out/DevOpsApi.dll
+/Users/victorbrandao/DevOpsApiCSharp/out/DevOpsApi.deps.json
+/Users/victorbrandao/DevOpsApiCSharp/out/DevOpsApi.runtimeconfig.json
+/Users/victorbrandao/DevOpsApiCSharp/out/DevOpsApi.pdb
