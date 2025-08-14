@@ -26,3 +26,4 @@
 /Users/victorbrandao/DevOpsApiCSharp/DevOpsApi/obj/Debug/net9.0/DevOpsApi.pdb
 /Users/victorbrandao/DevOpsApiCSharp/DevOpsApi/obj/Debug/net9.0/DevOpsApi.genruntimeconfig.cache
 /Users/victorbrandao/DevOpsApiCSharp/DevOpsApi/obj/Debug/net9.0/ref/DevOpsApi.dll
+/Users/victorbrandao/DevOpsApiCSharp/DevOpsApi/obj/Debug/net9.0/DevOpsApi.sourcelink.json
